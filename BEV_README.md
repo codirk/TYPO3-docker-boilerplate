@@ -19,7 +19,6 @@ make up
 
 # open 
 Open <http://localhost:8000> and follow installation wizard.
-Open <http://localhost:8001> for phpmyadmin.
 
 
 ## step 1: Select database
