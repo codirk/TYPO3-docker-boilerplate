@@ -1,7 +1,14 @@
-# prerequisites
+# prerequisites for windows
+* enter Windows-Features in your search bar 
+* select Windows-Subsystem für Linux
+* Open the microsoft store
+* search for linux
+* install Ubuntu
+```bash
+sudo apt install make
+sudo apt install git
+```
 * docker <https://hub.docker.com/editions/community/docker-ce-desktop-windows>
-* make
-* git <https://git-scm.com/downloads>
 
 # git
 ```bash
