@@ -7,12 +7,10 @@
 ```bash
 git clone https://github.com/codirk/TYPO3-docker-boilerplate.git
 cd TYPO3-docker-boilerplate
-git checkout bev
 ```
 
 # prepare docker and run
 ```bash
-cp docker-compose.development.yml docker-compose.yml
 make create typo3
 make up
 ```
