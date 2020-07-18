@@ -1,4 +1,8 @@
 # prerequisites for windows
+before you start make sure that
+* update windows to a version >19018+
+!!!
+
 * enter Windows-Features in your search bar 
 * select Windows-Subsystem für Linux
 * Open the microsoft store
@@ -9,7 +13,6 @@ sudo apt install make
 sudo apt install git
 ```
 restart the system
-* update windows to a version >19018+
 * install docker <https://hub.docker.com/editions/community/docker-ce-desktop-windows>
 
 # git
