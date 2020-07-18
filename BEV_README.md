@@ -8,7 +8,9 @@
 sudo apt install make
 sudo apt install git
 ```
-* docker <https://hub.docker.com/editions/community/docker-ce-desktop-windows>
+restart the system
+* update windows to a version >19018+
+* install docker <https://hub.docker.com/editions/community/docker-ce-desktop-windows>
 
 # git
 ```bash
