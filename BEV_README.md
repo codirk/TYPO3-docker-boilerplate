@@ -8,7 +8,10 @@ before you start make sure that
 * Open the microsoft store
 * search for linux
 * install Ubuntu
+
+open the powershell
 ```bash
+bash
 sudo apt install make
 sudo apt install git
 ```
