@@ -51,3 +51,10 @@ docker rm $(docker ps -a -q)
 docker rmi $(docker images -q)
 docker volume rm $(docker volume ls -q)
 ```
+
+# set Ubuntu as default (wsl/Windows Subsystem for Linux)
+```bash
+ wsl --list --verbose
+ wsl -s Ubuntu
+ wsl --set-default-version 2
+```
